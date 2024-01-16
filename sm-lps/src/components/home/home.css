@@ -24,8 +24,8 @@
   .landing-page .content .container {
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    gap: 140px;
+    justify-content: space-evenly;
+    gap: 40px;
     min-height: calc(100vh - 80px);
   }
   @media (max-width: 767px) {
@@ -39,12 +39,13 @@
   @media (max-width: 767px) {
     .landing-page .content .info {
       text-align: center;
-      margin-bottom: 15px 
+      margin-bottom: 15px ;
+      width: 100%;
     }
   }
   .landing-page .content .info h1 {
-    color: #5d5d5d;
-    font-size: 45px;
+    color: #2a2f6b;
+    font-size: 400%;
     font-weight: bolder;
   }
   .landing-page .content .info p {
@@ -60,10 +61,11 @@
     margin-top: 30px;
     cursor: pointer;
     color: #FFF;
-    background-color: #6c63ff;
+    background-color: #2a2f6b;
   }
   .landing-page .content .image img {
     max-width: 80%;
     max-height: fit-content;
+    margin-left: 40%;
   }
   /* End Landing Page */

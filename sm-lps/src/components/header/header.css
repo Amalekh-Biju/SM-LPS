@@ -103,10 +103,10 @@ ul {
   border-radius: 20px;
   padding: 10px 20px;
   color: #FFF;
-  background-color: #6c63ff;
+  background-color: #2a2f6b;
 }
 .landing-page header .links li:not(:last-child):hover a {
-  color: #6c63ff;
+  color: #2a2f6b;
 }
 
 .logo img {

@@ -5,7 +5,10 @@ import Header from '../header/Header'
 const About = () => {
   return (
     <div className="about">
-    <Header/>
+    <div className="header">
+     <Header/>
+    </div>
+    <div className="about-content">
       <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css"></link>
         <div class="container">
           <h1>Website Refresh Timeline</h1>
@@ -267,7 +270,7 @@ const About = () => {
               
             </div>
         </div>
-
+        </div>
     </div>
   )
 }
