@@ -1,9 +1,13 @@
 import React from 'react'
 import './testimonials.css'
+import Header from '../header/Header'
 
 const Testimonials = () => {
   return (
-    <div>Testimonials</div>
+    <div>
+      <Header />
+      Testimonials
+      </div>
   )
 }
 
