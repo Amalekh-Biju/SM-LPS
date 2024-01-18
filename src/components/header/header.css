@@ -155,6 +155,10 @@ margin-bottom: 0%;
     .landing-page header .links .menu-btn {
       display: block;
     }
+
+    .landing-page header .sidebar  {
+      padding-top: 40px;
+    }
 }
 
 .menu-btn {
@@ -177,7 +181,7 @@ margin-bottom: 0%;
   }
 }
 
-@media (max-width: 400px){
+@media (max-width: 600px){
   .landing-page header .sidebar {
     display: none;
     position: fixed;
@@ -194,5 +198,7 @@ margin-bottom: 0%;
     justify-content: flex-start;
     transition: all 0.3s ease-in-out;
   }
+
+  
   
 }

@@ -69,3 +69,20 @@
     margin-left: 40%;
   }
   /* End Landing Page */
+
+  @media (max-width: 800px) {
+    .landing-page .content .container {
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      max-width: 100%;
+      margin-left: auto;
+    }
+
+    .landing-page .content .container img {
+      max-width: 90%;
+      max-height: fit-content;
+      margin-left: 5%;
+    }
+  }
+
