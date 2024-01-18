@@ -1,7 +1,6 @@
 import React from 'react'
 import './home.css'
 import Header from '../header/Header'
-import BG1 from '../../assets/images/BG.jpg'
 import HomeImg from '../../assets/images/home.png'
 
 const Home = () => {
@@ -14,11 +13,13 @@ const Home = () => {
             <div class="info">
               <h2>Welcome To</h2>
               <h1>St. Mary's LP School</h1>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus odit nihil ullam nesciunt quidem iste, Repellendus odit nihil</p>
+              <p>"St. Mary's LP School Kaliyar, a beacon of educational excellence since 1950, 
+                provides top-tier education up to standard 4. Under the guidance of the Corporate 
+                Educational Agency of Epharchy of Kothamangalam, we nurture young minds for a bright future."</p>
               <button>Read More</button>
             </div>
             <div class="image">
-              <img src={HomeImg}></img>
+              <img src={HomeImg} alt="featured"></img>
             </div >
           </div>
         </div>
