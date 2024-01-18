@@ -25,9 +25,9 @@ ul {
   margin-right: auto;
 }
 /* Small */
-@media (min-width: 768px) {
-  .container {
-    width: 750px;
+@media (max-width: 768px) {
+  ul .links {
+    display: none;
   }
 }
 /* Medium */
@@ -84,8 +84,7 @@ ul {
 }
 @media (max-width: 767px) {
   .landing-page header .links {
-    text-align: center;
-    gap: 10px;
+    display: none;
   }
 }
 .landing-page header .links li a {
@@ -113,4 +112,13 @@ ul {
 max-width: 80%;
 max-height: fit-content;
 margin-bottom: 0%;
+}
+@media (max-width: 768px) {
+  .logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    margin: 0;
+
+  }
 }
