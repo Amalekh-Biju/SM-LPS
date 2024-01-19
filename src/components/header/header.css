@@ -127,8 +127,8 @@ margin-bottom: 0%;
  font-size: 30px;
 }
 
-.landing-page header .links li:last-child{
-  font-size: 30px;
+.landing-page header .links li:last-child a {
+  font-size: 40px;
  }
 
 .landing-page header .sidebar li:nth-child(6) a {
