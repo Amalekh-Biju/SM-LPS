@@ -6,8 +6,8 @@
   height: 10px;
   background-color: #2a2f6b;
   z-index: 1000;
-  animation: scroll-watcher linear;
-  animation-timeline: scroll();
+  animation: scroll-watcher linear !important;
+  animation-timeline: scroll() !important;
   transform-origin: left;
   scale: 0.5 1;
 }
