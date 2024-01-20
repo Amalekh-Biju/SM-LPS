@@ -230,42 +230,7 @@ const About = () => {
                         <p>Scheduled final sites for June 20th Delivery and July 10th Launch! </p>
                 
                     </div>
-                </div>
-              
-                 <div class="timeline-container secondary">
-                    <div class="timeline-icon">
-                        <i class="fa-solid fa-xs fa-burst"></i>
-                    </div>   
-                    <div class="timeline-body">
-                        
-                        <h4 class="timeline-title"><span class="badge">IMPACT</span></h4>
-                      <h4>Evidence</h4>
-                      <ul>
-                        <li>Positive feedback </li>
-                        <li>Low number tickets </li>
-                        <li>Few training requests</li>
-                      </ul>
-                
-                    </div>
-                </div>
-              
-              
-                 <div class="timeline-container secondary">
-                    <div class="timeline-icon">
-                        <i class="fa-solid fa-xs fa-people-arrows"></i>
-                    </div>   
-                    <div class="timeline-body">
-                        
-                        <h4 class="timeline-title"><span class="badge">DEPARTMENT GOAL</span></h4>
-                      <h4>Collaboration</h4>
-                      <ul>
-                        <li>IT Sub-departments</li>
-                        <li>District Departments/Sub-departments </li>
-                        <li>School Sites</li>
-                        <li>Communication</li>
-                      </ul>
-                
-                    </div>
+        
                 </div>
               
               

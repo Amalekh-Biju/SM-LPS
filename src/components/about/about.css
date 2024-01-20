@@ -62,8 +62,8 @@ padding-top: 1.5%;
   right: 0;
   top: 5px;
   width: 4px;
-  height: 100%;
-  background: #171b46;
+  height: 97%;
+  background: #191e53;
 }
 .about-content .timeline .timeline-container {
   position: relative;
@@ -111,19 +111,21 @@ padding-top: 1.5%;
 .about-content .timeline .timeline-container .timeline-body .timeline-title {
   margin-bottom: 1.4rem;
 }
+.about-content .timeline .timeline-container .timeline-body .timeline-title h4 {
+  font-weight: 600;
+  font-size: 16px;
+  margin-bottom: 5px;
+}
 .about-content .timeline .timeline-container .timeline-body .timeline-title .badge {
   background: #4f537b;
   padding: 4px 8px;
   border-radius: 3px;
   font-size: 12px;
   font-weight: bold;
+  color: #fff;
 }
-.about-content .timeline .timeline-container .timeline-body .timeline-subtitle {
-  font-weight: 300;
-  font-style: italic;
-  opacity: 0.4;
-  margin-top: 16px;
-  font-size: 11px;
+.about-content .timeline .timeline-container .timeline-body h4 {
+  color: rgb(134, 172, 255);
 }
 .about-content .timeline .timeline-container.primary .badge,
 .about-content .timeline .timeline-container.primary .timeline-icon {
