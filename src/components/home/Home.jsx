@@ -2,6 +2,7 @@ import React from 'react'
 import './home.css'
 import Header from '../header/Header'
 import HomeImg from '../../assets/images/home.png'
+import Footer from '../footer/Footer'
 
 const Home = () => {
   return (
@@ -30,6 +31,9 @@ const Home = () => {
                 provides top-tier education up to standard 4. Under the guidance of the Corporate 
                 Educational Agency of Epharchy of Kothamangalam, we nurture young minds for a bright future."</p>
         </div>
+    </div>
+    <div className="footer">
+      <Footer />
     </div>
    </div>
   )
