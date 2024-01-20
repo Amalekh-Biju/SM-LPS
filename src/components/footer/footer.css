@@ -9,7 +9,7 @@
   animation: scroll-watcher linear;
   animation-timeline: scroll();
   transform-origin: left;
-  scale: 0 1;
+  scale: 0.5 1;
 }
 
 @keyframes scroll-watcher {
