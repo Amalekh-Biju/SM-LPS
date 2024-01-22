@@ -27,7 +27,7 @@ const Header = () => {
             <ul class="links">
               <li class="hide-on-mobile"><Link to="/">Home </Link></li>
               <li class="hide-on-mobile"><Link to="/about">About Us</Link></li>
-              <li class="hide-on-mobile"><Link to="/testimonials">Testimonials</Link></li>
+              <li class="hide-on-mobile"><Link to="/history">History</Link></li>
               <li class="hide-on-mobile"><Link to="/info">Info</Link></li>
               <li class="hide-on-mobile"><Link to="/admissions">Admissions</Link></li>
               <li class="menu-btn" onClick={showSidebar}><Link to="#"><HiOutlineMenuAlt1 /></Link></li>
@@ -36,7 +36,7 @@ const Header = () => {
               <li onClick={hideSidebar}><Link to="#"><PiEyeClosedBold /> </Link></li>
               <li><Link to="/">Home </Link></li>
               <li><Link to="/about">About Us</Link></li>
-              <li><Link to="/testimonials">Testimonials</Link></li>
+              <li><Link to="/history">History</Link></li>
               <li><Link to="/info">Info</Link></li>
               <li><Link to="/admissions">Admissions</Link></li>
             </ul>
