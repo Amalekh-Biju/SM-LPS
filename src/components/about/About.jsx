@@ -11,7 +11,7 @@ import Aleena from '../../assets/BG-Profile/Pic/ALEENA SHAJU.svg'
 import Anumol from '../../assets/BG-Profile/Pic/ANUMOL MATHEW.svg'
 import Asha from '../../assets/BG-Profile/Pic/Asha jolly.svg'
 import Ashwathy from '../../assets/BG-Profile/Pic/Aswathy Bhaskar.svg'
-
+import Biji from '../../assets/BG-Profile/Pic/Bigi.svg'
 import Dainy from '../../assets/BG-Profile/Pic/Dainy Saju.svg'
 import Divya from '../../assets/BG-Profile/Pic/Divya S.svg'
 
