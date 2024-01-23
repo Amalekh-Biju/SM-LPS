@@ -12,6 +12,7 @@ import Anumol from '../../assets/BG-Profile/Pic/ANUMOL MATHEW.svg'
 import Asha from '../../assets/BG-Profile/Pic/Asha jolly.svg'
 import Ashwathy from '../../assets/BG-Profile/Pic/Aswathy Bhaskar.svg'
 import Biji from '../../assets/BG-Profile/Pic/Bigi.svg'
+import Biya from '../../assets/BG-Profile/Pic/BIYA Antony.svg'
 import Dainy from '../../assets/BG-Profile/Pic/Dainy Saju.svg'
 import Divya from '../../assets/BG-Profile/Pic/Divya S.svg'
 import Gilta from '../../assets/BG-Profile/Pic/GILTA JOSEPH.svg'
@@ -36,6 +37,7 @@ const About = () => {
     <Header/>   
     </div>
     <div className="us">
+    <div className="headmistress">
     <div class="person">
       <div class="container">
         <div class="container-inner">
@@ -50,6 +52,7 @@ const About = () => {
       <div class="divider"></div>
       <div class="name">Shibimol Joseph</div>
       <div class="title">Headmistress </div>
+    </div>
     </div>
     <div class="person">
       <div class="container">
@@ -77,13 +80,30 @@ const About = () => {
           />
           <img
             class="img img3"
-            src= {Shibimol}
+            src= {Aleena}
           />
         </div>
       </div>
       <div class="divider"></div>
-      <div class="name">Shibimol Joseph</div>
-      <div class="title">Senior</div>
+      <div class="name">Aleena Shaji</div>
+      <div class="title">Teacher - Primary</div>
+    </div>
+    <div class="person">
+      <div class="container">
+        <div class="container-inner">
+          <img
+            class="circle"
+            src= {BG2}
+          />
+          <img
+            class="img img3"
+            src= {Raihanath}
+          />
+        </div>
+      </div>
+      <div class="divider"></div>
+      <div class="name">Raihanath K. E</div>
+      <div class="title">Teacher - Primary</div>
     </div>
     <div class="person">
       <div class="container">
@@ -94,13 +114,30 @@ const About = () => {
           />
           <img
             class="img img3"
-            src= {Shibimol}
+            src= {Leena}
           />
         </div>
       </div>
       <div class="divider"></div>
-      <div class="name">Shibimol Joseph</div>
-      <div class="title">Senior</div>
+      <div class="name">Leena Alphonse Jose</div>
+      <div class="title">Teacher - Primary</div>
+    </div>
+    <div class="person">
+      <div class="container">
+        <div class="container-inner">
+          <img
+            class="circle"
+            src= {BG2}
+          />
+          <img
+            class="img img3"
+            src= {Anumol}
+          />
+        </div>
+      </div>
+      <div class="divider"></div>
+      <div class="name">Anumol Mathew</div>
+      <div class="title">Teacher - Primary</div>
     </div>
     <div class="person">
       <div class="container">
@@ -111,13 +148,30 @@ const About = () => {
           />
           <img
             class="img img3"
-            src= {Shibimol}
+            src= {Salooja}
           />
         </div>
       </div>
       <div class="divider"></div>
-      <div class="name">Shibimol Joseph</div>
-      <div class="title">Senior</div>
+      <div class="name">Salooja K M</div>
+      <div class="title">Teacher - Primary</div>
+    </div>
+    <div class="person">
+      <div class="container">
+        <div class="container-inner">
+          <img
+            class="circle"
+            src= {BG2}
+          />
+          <img
+            class="img img3"
+            src= {Divya}
+          />
+        </div>
+      </div>
+      <div class="divider"></div>
+      <div class="name">Divya S.</div>
+      <div class="title">Teacher - Primary</div>
     </div>
     <div class="person">
       <div class="container">
@@ -128,13 +182,63 @@ const About = () => {
           />
           <img
             class="img img3"
-            src= {Shibimol}
+            src= {Meenu}
           />
         </div>
       </div>
       <div class="divider"></div>
-      <div class="name">Shibimol Joseph</div>
-      <div class="title">Senior</div>
+      <div class="name">Meenu C Johny</div>
+      <div class="title">Teacher - Primary</div>
+    </div>
+    <div class="person">
+      <div class="container">
+        <div class="container-inner">
+          <img
+            class="circle"
+            src= {BG2}
+          />
+          <img
+            class="img img3"
+            src= {Manju}
+          />
+        </div>
+      </div>
+      <div class="divider"></div>
+      <div class="name">Manju Joseph</div>
+      <div class="title">Teacher - Primary</div>
+    </div><div class="person">
+      <div class="container">
+        <div class="container-inner">
+          <img
+            class="circle"
+            src= {BG3}
+          />
+          <img
+            class="img img3"
+            src= {Joythi}
+          />
+        </div>
+      </div>
+      <div class="divider"></div>
+      <div class="name">Joythi Thomas</div>
+      <div class="title">Teacher - Primary</div>
+    </div>
+    <div class="person">
+      <div class="container">
+        <div class="container-inner">
+          <img
+            class="circle"
+            src= {BG2}
+          />
+          <img
+            class="img img3"
+            src= {Ashwathy}
+          />
+        </div>
+      </div>
+      <div class="divider"></div>
+      <div class="name">Ashwathy Baskar</div>
+      <div class="title">Teacher - Primary</div>
     </div>
     <div class="person">
       <div class="container">
@@ -145,13 +249,30 @@ const About = () => {
           />
           <img
             class="img img3"
-            src= {Shibimol}
+            src= {Gilta}
           />
         </div>
       </div>
       <div class="divider"></div>
-      <div class="name">Shibimol Joseph</div>
-      <div class="title">Senior</div>
+      <div class="name">Gilta Joseph</div>
+      <div class="title">Teacher - Primary</div>
+    </div>
+    <div class="person">
+      <div class="container">
+        <div class="container-inner">
+          <img
+            class="circle"
+            src= {BG2}
+          />
+          <img
+            class="img img3"
+            src= {Jesty}
+          />
+        </div>
+      </div>
+      <div class="divider"></div>
+      <div class="name">Jesty K Antony</div>
+      <div class="title">Teacher - Primary</div>
     </div>
     <div class="person">
       <div class="container">
@@ -162,13 +283,115 @@ const About = () => {
           />
           <img
             class="img img3"
-            src= {Shibimol}
+            src= {Biya}
           />
         </div>
       </div>
       <div class="divider"></div>
-      <div class="name">Shibimol Joseph</div>
-      <div class="title">Senior</div>
+      <div class="name">Biya Antony</div>
+      <div class="title">Teacher - Primary</div>
+    </div>
+    <div class="person">
+      <div class="container">
+        <div class="container-inner">
+          <img
+            class="circle"
+            src= {BG2}
+          />
+          <img
+            class="img img3"
+            src= {Asha}
+          />
+        </div>
+      </div>
+      <div class="divider"></div>
+      <div class="name">Asha Jolly</div>
+      <div class="title">Non - Teaching - Primary</div>
+    </div>
+    <div class="person">
+      <div class="container">
+        <div class="container-inner">
+          <img
+            class="circle"
+            src= {BG3}
+          />
+          <img
+            class="img img3"
+            src= {Dainy}
+          />
+        </div>
+      </div>
+      <div class="divider"></div>
+      <div class="name">Dainy Saju</div>
+      <div class="title">Teacher - Pre Primary</div>
+    </div>
+    <div class="person">
+      <div class="container">
+        <div class="container-inner">
+          <img
+            class="circle"
+            src= {BG2}
+          />
+          <img
+            class="img img3"
+            src= {Gincy}
+          />
+        </div>
+      </div>
+      <div class="divider"></div>
+      <div class="name">Gincy Silju</div>
+      <div class="title">Teacher - Pre Primary</div>
+    </div>
+    <div class="person">
+      <div class="container">
+        <div class="container-inner">
+          <img
+            class="circle"
+            src= {BG3}
+          />
+          <img
+            class="img img3"
+            src= {Biji}
+          />
+        </div>
+      </div>
+      <div class="divider"></div>
+      <div class="name">Biji Baby</div>
+      <div class="title">Teacher - Pre Primary</div>
+    </div>
+    <div class="person">
+      <div class="container">
+        <div class="container-inner">
+          <img
+            class="circle"
+            src= {BG2}
+          />
+          <img
+            class="img img3"
+            src= {Sreelatha}
+          />
+        </div>
+      </div>
+      <div class="divider"></div>
+      <div class="name">Sreelatha Suresh</div>
+      <div class="title">Teacher - Pre Primary</div>
+    </div>
+    <div class="person">
+      <div class="container">
+        <div class="container-inner">
+          <img
+            class="circle"
+            src= {BG3}
+          />
+          <img
+            class="img img3"
+            src= {Soumya}
+          />
+        </div>
+      </div>
+      <div class="divider"></div>
+      <div class="name">Soumya Renjith</div>
+      <div class="title">Teacher - Pre Primary</div>
     </div>
     </div>
     <div className="footer">

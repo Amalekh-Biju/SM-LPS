@@ -5,9 +5,20 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  height: 100vh;
-  margin: 5px;
-  margin-top: 80px;
+  margin-top: 120px;
+  margin-bottom: 0;
+  width: 100%;
+}
+.us .headmistress{
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+  width: 100%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.us .headmistress .person{
+  scale: 1.4;
 }
 .us .person {
   align-items: center;
