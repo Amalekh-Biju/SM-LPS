@@ -5,6 +5,7 @@ import './about.css'
 import BG1 from '../../assets/BG-Profile/1.png'
 import BG2 from '../../assets/BG-Profile/2.png'
 import BG3 from '../../assets/BG-Profile/3.png'
+
 import Shibimol from '../../assets/BG-Profile/Pic/Shibimol_Joseph.png'
 
 const About = () => {
