@@ -14,6 +14,18 @@ import Ashwathy from '../../assets/BG-Profile/Pic/Aswathy Bhaskar.svg'
 import Biji from '../../assets/BG-Profile/Pic/Bigi.svg'
 import Dainy from '../../assets/BG-Profile/Pic/Dainy Saju.svg'
 import Divya from '../../assets/BG-Profile/Pic/Divya S.svg'
+import Gilta from '../../assets/BG-Profile/Pic/GILTA JOSEPH.svg'
+import Gincy from '../../assets/BG-Profile/Pic/Gincy Silju.svg'
+import Jesty from '../../assets/BG-Profile/Pic/JESTY K ANTONY.svg'
+import Joythi from '../../assets/BG-Profile/Pic/Jyothi Thomas SHAJU.svg'
+import Leena from '../../assets/BG-Profile/Pic/LEENA ALPHONSE JOSE.svg'
+import Manju from '../../assets/BG-Profile/Pic/Manju  Joseph.svg'
+import Meenu from '../../assets/BG-Profile/Pic/MEENU C JOHNY.svg'
+import Raihanath from '../../assets/BG-Profile/Pic/RAIHANATH K. E.svg'
+import Salooja from '../../assets/BG-Profile/Pic/Salooja KM.svg'
+import Sebeena from '../../assets/BG-Profile/Pic/SEBEENA G NEDUMCHALIL.svg'
+import Soumya from '../../assets/BG-Profile/Pic/Soumya Renjith.svg'
+import Sreelatha from '../../assets/BG-Profile/Pic/Sreelatha Suresh.svg'
 
 /* Ended Pictures Import  */
 
@@ -37,7 +49,7 @@ const About = () => {
       </div>
       <div class="divider"></div>
       <div class="name">Shibimol Joseph</div>
-      <div class="title">Principal</div>
+      <div class="title">Headmistress </div>
     </div>
     <div class="person">
       <div class="container">
@@ -48,13 +60,13 @@ const About = () => {
           />
           <img
             class="img img2"
-            src= {Shibimol}
+            src= {Sebeena}
           />
         </div>
       </div>
       <div class="divider"></div>
-      <div class="name">Shibimol Joseph</div>
-      <div class="title">Senior </div>
+      <div class="name">Sebeena G</div>
+      <div class="title">Teacher - Primary</div>
     </div>
     <div class="person">
       <div class="container">
