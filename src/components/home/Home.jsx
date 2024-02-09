@@ -52,10 +52,16 @@ const Home = () => {
         </div>
         <div className="courses" >
               <h2 id='more'>What We Offer</h2>
-              <h1>Our Courses</h1>
-              <p>"St. Mary's LP School Kaliyar, a beacon of educational excellence since 1950, 
-                provides top-tier education up to standard 4. Under the guidance of the Corporate 
-                Educational Agency of Epharchy of Kothamangalam, we nurture young minds for a bright future."</p>
+              <h1>What We Offer</h1>
+              <p><b>St. Mary's LP School, Kaliyar:</b> Igniting young minds, shaping bright futures.</p>
+
+<p>Since 1950, we've been a beacon of academic excellence, consistently ranking among the top schools in the district. Our dedicated teachers go beyond textbooks to nurture young minds. Through innovative teaching methods, a focus on values education, and enriching extracurricular activities, we prepare students not just for academic success, but for life.</p>
+
+<p>At St. Mary's, we foster a warm and inclusive environment where each child feels supported and celebrated. Small class sizes ensure personalized attention, while our dedicated counselor provides emotional well-being support.</p>
+
+<p>"St. Mary's isn't just a school, it's a family. My child has blossomed here, not just academically, but as a confident and caring individual."</p>
+
+<p>Ready to unlock your child's potential? Visit our website or attend our upcoming open house to learn more about our unique approach to education.</p>
         </div>
         <div className="slideshow">
       <Swiper 

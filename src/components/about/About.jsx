@@ -6,6 +6,7 @@ import BG1 from '../../assets/BG-Profile/1.png'
 import BG2 from '../../assets/BG-Profile/2.png'
 import BG3 from '../../assets/BG-Profile/3.png'
 /* Started Pictures From Here */
+import Fr from '../../assets/BG-Profile/Pic/Fr.Joseph Mundunadayil.svg'
 import Shibimol from '../../assets/BG-Profile/Pic/Shibimol Joseph.svg'
 import Aleena from '../../assets/BG-Profile/Pic/ALEENA SHAJU.svg'
 import Anumol from '../../assets/BG-Profile/Pic/ANUMOL MATHEW.svg'
@@ -27,6 +28,7 @@ import Salooja from '../../assets/BG-Profile/Pic/Salooja KM.svg'
 import Sebeena from '../../assets/BG-Profile/Pic/SEBEENA G NEDUMCHALIL.svg'
 import Soumya from '../../assets/BG-Profile/Pic/Soumya Renjith.svg'
 import Sreelatha from '../../assets/BG-Profile/Pic/Sreelatha Suresh.svg'
+import Manju_G from '../../assets/BG-Profile/Pic/Manju Graitus.svg'
 
 /* Ended Pictures Import  */
 
@@ -37,6 +39,24 @@ const About = () => {
     <Header/>   
     </div>
     <div className="us">
+    <h1>Our Team</h1>
+    <div className="headmistress">
+    <div class="person">
+      <div class="container">
+        <div class="container-inner">
+          <img
+            class="circle" src= {BG1}
+          />
+          <img
+            class="img img1" src= {Fr}
+          />
+        </div>
+      </div>
+      <div class="divider"></div>
+      <div class="name">Fr. Joseph Mundunadayil</div>
+      <div class="title">Manager </div>
+    </div>
+    </div>
     <div className="headmistress">
     <div class="person">
       <div class="container">
@@ -382,6 +402,23 @@ const About = () => {
           <img
             class="circle"
             src= {BG3}
+          />
+          <img
+            class="img img3"
+            src= {Manju_G}
+          />
+        </div>
+      </div>
+      <div class="divider"></div>
+      <div class="name">Manju Gratius</div>
+      <div class="title">Teacher - Pre Primary</div>
+    </div>
+    <div class="person">
+      <div class="container">
+        <div class="container-inner">
+          <img
+            class="circle"
+            src= {BG2}
           />
           <img
             class="img img3"
